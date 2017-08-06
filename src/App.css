@@ -1,0 +1,20 @@
+
+
+.main {
+    overflow: hidden;
+    padding: 10px;
+}
+
+button {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+ul {
+    margin:0;
+    padding: 0;
+    float: left;
+    width: 50%;
+    list-style-position: inside;
+}
